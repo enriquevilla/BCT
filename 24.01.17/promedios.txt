@@ -1,0 +1,6 @@
+Gumercindo 95
+Petronila 84
+Pancracio 61
+Anacleta 81
+Alumnos: 4
+Promedio grupo: 80

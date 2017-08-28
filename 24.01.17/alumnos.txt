@@ -1,0 +1,4 @@
+Gumercindo 100 90 95
+Petronila 67 100 87
+Pancracio 59 46 78
+Anacleta 43 100 100

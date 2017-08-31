@@ -1,5 +1,5 @@
 # ITC
 Repo para ITC Tecnológico de Monterrey
 Hecho por Enrique Marcelo Villa García
-Matrícula A01193635
-Esto es un conjunto de todas las actividades de programación de la carrera junto con algunos códigos creados por gusto o curiosidad
+Esto es un conjunto de todas las actividades de programación de la carrera
+This is a collection of all the programming related activities done as academic work
